@@ -1,0 +1,97 @@
+
+body{
+  margin:0px;
+}
+.navbar{
+  height:78px;
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+  background: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  display: flex;
+  justify-content:space-between;
+}
+.logo{
+  display: flex;
+  justify-content: center;
+  width:20%;
+  align-items: center;
+  padding-bottom: 10px;
+
+}
+.link{
+  display: flex;
+  justify-content: space-around;
+  width:70%;
+  align-items: center;
+  padding-bottom: 10px;
+  color: white;
+
+
+}
+.link > a:hover {
+  color:darkblue;
+}
+.userprofile{
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 1%;
+  width:10%;
+  color:white;
+  align-items:center;
+}
+.section1{
+  height:500PX;
+  background:linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+
+}
+.discover{
+  height:58px;
+  display:flex;
+  justify-content: center;
+  color:white;
+  font-size:40px;
+  font-weight:700;
+  padding-top:78px;
+  flex-direction: column;
+  align-items: center;
+margin: 0px;
+}
+.platform{
+  height:70px;
+  display:flex;
+  justify-content: center;
+  color:rgb(26, 46, 134);
+  font-size:30px;
+  font-weight:bold;
+  padding-left: 30px;
+  margin:0px
+  
+
+}
+
+h1{
+  margin: 0px;
+}
+  .searchicon{
+    height:40px;
+    width:30px;
+    color: black;
+  }
+  .icon2{
+    height:40px;
+    width:40px;
+    color: black;
+  }
+  design{
+    height:40px;
+    width:30px;
+    color:black;
+
+  }
+
