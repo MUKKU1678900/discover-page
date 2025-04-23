@@ -48,6 +48,8 @@ body{
   color: black;
   font-size: larger;
   font-weight: bold;
+  gap: 56px;
+  flex-direction: column;
 
 }
 .discover{
@@ -95,3 +97,7 @@ h1{
 
   }
 
+.search-container{
+display: flex;
+justify-content: center;
+}
